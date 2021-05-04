@@ -1,6 +1,16 @@
 # PetRealm Respawn 寵物王 重生
 寵物王Online 模仿制製作計劃 單機向
 
+## 原始檔案讀取
+### 圖形介面
+![LoginState](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(0).png)
+### 寵物圖檔
+![LoginState](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(1).png)
+### 人物圖檔
+![LoginState](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(2).png)
+
+
+
 ## 基礎架構
 
 ### LoginState (登入State)
