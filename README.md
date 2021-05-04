@@ -29,12 +29,16 @@
 ### GameState (主要遊戲State)
 #### 背景地圖繪製
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(0).png" width="300" alt="背景地圖繪製"/>
+
 #### 角色繪製 (人物)
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(1).png" width="300" alt="角色繪製"/>
+
 #### 圖形介面繪製
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(2).png" width="300" alt="圖形介面繪製"/>
+
 #### 角色移動邏輯
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(3).png" width="300" alt="角色移動邏輯"/>
+
 #### 圖形介面交互控制 (按鈕、圖像顯示)
 #### 地圖交互控制 (可否移動、環境物遮蔽、地圖傳送)
 
