@@ -24,6 +24,7 @@
 #### 圖形介面繪製
 ![圖形介面繪製](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(2).png)
 #### 角色移動邏輯
+![角色移動邏輯](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(3).png)
 #### 圖形介面交互控制 (按鈕、圖像顯示)
 #### 地圖交互控制 (可否移動、環境物遮蔽、地圖傳送)
 
