@@ -3,11 +3,11 @@
 
 ## 原始檔案讀取
 ### 圖形介面
-![LoginState](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(0).png)
+<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(0).png" width="300" alt="圖形介面"/>
 ### 寵物圖檔
-![LoginState](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(1).png)
+<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(1).png" width="300" alt="寵物圖檔"/>
 ### 人物圖檔
-![LoginState](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(2).png)
+<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(2).png" width="300" alt="人物圖檔"/>
 
 
 
@@ -16,7 +16,7 @@
 ### LoginState (登入State)
 #### 背景繪製
 #### 圖形介面繪製
-![LoginState](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/LoginState(0).png)
+<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/LoginState(0).png" width="300" alt="圖形介面繪製"/>
 
 ### CharacterChoiceState (角色選擇State)
 #### 背景繪製
@@ -28,13 +28,13 @@
 
 ### GameState (主要遊戲State)
 #### 背景地圖繪製
-![背景地圖繪製](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(0).png)
+<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(0).png" width="300" alt="背景地圖繪製"/>
 #### 角色繪製 (人物)
-![角色繪製](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(1).png)
+<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(1).png" width="300" alt="角色繪製"/>
 #### 圖形介面繪製
-![圖形介面繪製](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(2).png)
+<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(2).png" width="300" alt="圖形介面繪製"/>
 #### 角色移動邏輯
-![角色移動邏輯](https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(3).png)
+<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(3).png" width="300" alt="角色移動邏輯"/>
 #### 圖形介面交互控制 (按鈕、圖像顯示)
 #### 地圖交互控制 (可否移動、環境物遮蔽、地圖傳送)
 
