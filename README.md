@@ -7,6 +7,14 @@
 #### 背景繪製
 #### 圖形介面繪製
 
+### CharacterChoiceState (角色選擇State)
+#### 背景繪製
+#### 圖形介面繪製
+
+### CharacterCreateState (角色創建State)
+#### 背景繪製
+#### 圖形介面繪製
+
 ### GameState (主要遊戲State)
 #### 背景地圖繪製
 #### 角色繪製 (人物)
