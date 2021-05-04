@@ -3,7 +3,7 @@
 
 ## 原始檔案讀取
 ### 圖形介面
-<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(0).png" width="300" alt="圖形介面" onmouseover="this.width='';"onmouseout="this.width='300';"/>
+<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(0).png" width="300" alt="圖形介面" onmouseover="this.width='';" onmouseout="this.width='300';" />
 
 ### 寵物圖檔
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(1).png" width="300" alt="寵物圖檔"/>
