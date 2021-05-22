@@ -1,5 +1,5 @@
 # PetRealm Respawn 寵物王 重生
-寵物王Online 模仿制製作計劃 單機向
+寵物王Online 模仿製作計劃 單機向
 
 ## 原始檔案讀取
 ### 圖形介面
