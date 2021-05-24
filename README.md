@@ -44,7 +44,8 @@
 #### 角色移動邏輯 [完成] (2021-05-04)
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(3).png" width="300" alt="角色移動邏輯"/>
 
-#### 圖形介面交互控制 (按鈕、圖像顯示) [完成] (2021-05-24)
+#### 圖形介面交互控制 (按鈕、圖像顯示)
+### 角色動作欄GUI [完成] (2021-05-24)
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(4).PNG" width="300" alt="圖形介面交互控制"/>
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(5).PNG" width="300" alt="圖形介面交互控制"/>
 #### 地圖交互控制 (可否移動、環境物遮蔽、地圖傳送)
