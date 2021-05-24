@@ -48,6 +48,7 @@
 ##### 角色動作欄GUI [完成] (2021-05-24)
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(4).PNG" width="300" alt="圖形介面交互控制"/>
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(5).PNG" width="300" alt="圖形介面交互控制"/>
+
 #### 地圖交互控制 (可否移動、環境物遮蔽、地圖傳送)
 
 ### BattleState (戰鬥State) [未開始]
