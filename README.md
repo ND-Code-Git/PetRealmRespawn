@@ -11,37 +11,41 @@
 ### 人物圖檔
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/Res/(2).png" width="300" alt="人物圖檔"/>
 
-
+## GUI架構
+### Button
+單擊按鈕
+### Radio
+群組多選/單選按鈕
+### Label
+文字顯示
+### PictureBox
+圖片組顯示
+### PictureBoxStatic
+靜態圖片顯示
 
 ## 基礎架構
 
-### LoginState (登入State) [完成] (2021-04-25)
-#### 背景繪製 [完成] (2021-04-25)
-#### 圖形介面繪製 [完成] (2021-04-25)
-#### 圖形介面交互控制 (按鈕、圖像顯示) [完成] (2021-04-25)
+### LoginState (登入State) [未完成]
+Login GUI (2021-04-25)
+
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/LoginState(0).png" width="300" alt="圖形介面繪製"/>
+Character GUI (2021-06-05)
 
-### CharacterChoiceState (角色選擇State) [未開始]
-#### 背景繪製
-#### 圖形介面繪製
-#### 圖形介面交互控制 (按鈕、圖像顯示)
+<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/LoginState(1).png" width="300" alt="圖形介面繪製"/>
+Create Character GUI (2021-06-05)
 
-### CharacterCreateState (角色創建State) [未開始]
-#### 背景繪製
-#### 圖形介面繪製
-#### 圖形介面交互控制 (按鈕、圖像顯示)
+<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/LoginState(2).png" width="300" alt="圖形介面繪製"/>
 
 ### GameState (主要遊戲State) [未完成]
-#### 背景地圖繪製 [完成] (2021-05-04)
-<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(0).png" width="300" alt="背景地圖繪製"/>
+背景地圖繪製 [完成] (2021-05-04)
 
-#### 角色繪製 (人物) [完成] (2021-05-04)
-<img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(1).png" width="300" alt="角色繪製"/>
+角色繪製 (人物) [完成] (2021-05-04)
 
-#### 圖形介面繪製 [完成] (2021-05-04)
+圖形介面繪製 [完成] (2021-05-04)
+
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(2).png" width="300" alt="圖形介面繪製"/>
+角色移動邏輯 [完成] (2021-05-04)
 
-#### 角色移動邏輯 [完成] (2021-05-04)
 <img src="https://raw.githubusercontent.com/ND-Code-Git/PetRealmRespawn/main/readme/GameState(3).png" width="300" alt="角色移動邏輯"/>
 
 #### 圖形介面交互控制 (按鈕、圖像顯示)
